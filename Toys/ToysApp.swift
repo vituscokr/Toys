@@ -12,6 +12,7 @@ struct ToysApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            //FontListView()
         }
     }
 }

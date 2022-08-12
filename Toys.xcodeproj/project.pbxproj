@@ -11,6 +11,7 @@
 		A9AA7D9B28A60CC800C7ABF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9AA7D9A28A60CC800C7ABF8 /* ContentView.swift */; };
 		A9AA7D9D28A60CC800C7ABF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9AA7D9C28A60CC800C7ABF8 /* Assets.xcassets */; };
 		A9AA7DA028A60CC800C7ABF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9AA7D9F28A60CC800C7ABF8 /* Preview Assets.xcassets */; };
+		A9AA7DA828A6169A00C7ABF8 /* FontListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9AA7DA728A6169A00C7ABF8 /* FontListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A9AA7D9C28A60CC800C7ABF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9AA7D9F28A60CC800C7ABF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A9AA7DA128A60CC800C7ABF8 /* Toys.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Toys.entitlements; sourceTree = "<group>"; };
+		A9AA7DA728A6169A00C7ABF8 /* FontListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				A9AA7D9828A60CC800C7ABF8 /* ToysApp.swift */,
 				A9AA7D9A28A60CC800C7ABF8 /* ContentView.swift */,
+				A9AA7DA728A6169A00C7ABF8 /* FontListView.swift */,
 				A9AA7D9C28A60CC800C7ABF8 /* Assets.xcassets */,
 				A9AA7DA128A60CC800C7ABF8 /* Toys.entitlements */,
 				A9AA7D9E28A60CC800C7ABF8 /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9AA7D9B28A60CC800C7ABF8 /* ContentView.swift in Sources */,
+				A9AA7DA828A6169A00C7ABF8 /* FontListView.swift in Sources */,
 				A9AA7D9928A60CC800C7ABF8 /* ToysApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
